@@ -1,0 +1,22 @@
+h1{
+font-family: verdana, sans-serif;
+text-align: center;
+}
+
+.block{
+background-color: floralwhite;
+border-radius: 14px;
+border-style: dotted;
+border-color: lightskyblue;
+}
+
+h3{
+    font-family: verdana, sans-serif;
+}
+body{
+    background-color: lightskyblue;
+}
+
+.lists{
+    text-align: center
+}
