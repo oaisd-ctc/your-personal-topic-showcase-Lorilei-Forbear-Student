@@ -1,0 +1,16 @@
+body{
+    background-color: coral;
+}
+
+.text{
+    color: white;
+}
+.link{
+    color:navajowhite;
+}
+a:hover{
+    color: lightyellow;
+}
+#title{
+    font-size: 24px;
+}
