@@ -14,3 +14,12 @@ a:hover{
 #title{
     font-size: 24px;
 }
+.block{
+    font-size: 36px;
+    background-color: lightyellow;
+    color: coral;
+    border-radius: 12px;
+}
+header{
+    text-align: center;
+}
