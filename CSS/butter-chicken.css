@@ -4,9 +4,11 @@ body{
 
 .text{
     color: white;
+    font-family: Verdana, sans-serif;
 }
 .link{
     color:navajowhite;
+    font-family: Verdana, sans-serif;
 }
 a:hover{
     color: lightyellow;
@@ -19,6 +21,10 @@ a:hover{
     background-color: lightyellow;
     color: coral;
     border-radius: 12px;
+    border-style: dotted;
+    border-color: coral;
+    border-width: 3px;
+    font-family: Verdana, sans-serif;
 }
 header{
     text-align: center;
