@@ -1,0 +1,27 @@
+.list-title{
+    font-size: 24px;
+    color: skyblue;
+    font-family: Verdana, sans-serif;
+}
+body{
+    background-color: lightslategray;
+    overflow: scroll;
+    font-family: Verdana, sans-serif;
+}
+ol{
+    color: lightsteelblue;
+    font-family: Verdana, sans-serif;
+}
+.block{
+    color:paleturquoise;
+    font-size: 36px;
+    background-color: gray;
+    border-radius: 12px;
+    border-style: dotted;
+    border-color: lightslategray;
+    border-width: 3px;
+    font-family: Verdana, sans-serif;
+}
+header{
+    text-align: center;
+}
